@@ -1,6 +1,6 @@
 node {  
     stage('Build') { 
-        echo "In build stage after adding polling git SCM 2nd time"
+        echo "In build stage after adding polling git SCM 3rd time"
     }
     stage('Test') { 
         echo "In Test stage"
