@@ -5,6 +5,7 @@ package com.mycompany.app;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World from AWS & I am learning java and Maven and will practice!!!!");
+        System.out.println("Hello World from AWS & I am learning java and Maven and will practice & this is auto build !!");
+	
     }
 }
